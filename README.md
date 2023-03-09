@@ -1,2 +1,2 @@
 # Nice Algotirhm
-Record nice algorithm I found
+Record nice algorithm I found.
